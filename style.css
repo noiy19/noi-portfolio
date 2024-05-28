@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+  width: 100%;
+  font-family: Seagram;
+  font-size: 30px;
+  }
+  @font-face {
+       font-family: Seagram; 
+       src: url("Seagram\ tfb.ttf");
+   }
+body{
+  background-color: #e2e9e5;
+}
